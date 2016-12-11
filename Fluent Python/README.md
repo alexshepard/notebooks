@@ -1,0 +1,1 @@
+Working through the amazing Fluent Python by Luciano Ramalho
